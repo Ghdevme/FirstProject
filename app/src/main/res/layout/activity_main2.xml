@@ -173,7 +173,7 @@
         android:layout_height="wrap_content"
         android:text="@string/register"
         android:textSize="17sp"
-        android:layout_marginStart="260dp"
+        android:layout_marginStart="240dp"
         android:textColor="@color/blue"
         android:textStyle="bold"
         android:layout_marginTop="60dp"
