@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">First Project</string>
+    <string name="lets_register_account">Lets register account</string>
+    <string name="hello_user_you_have_a_grateful_journey">Hello user, you have a grateful journey</string>
+    <string name="name">Name</string>
+    <string name="text">text</string>
+    <string name="business_name">Business Name</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="first_text">Team work all</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_back_you_have_been_missed">Welcome Back, You have been missed</string>
+    <string name="lets_sign_you_in">Lets Sign you in</string>
+    <string name="email_phone_or_username">Email, phone or username</string>
+    <string name="passwordhint">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">Or</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="register">Register</string>
+    <string name="todo0">TODO</string>
+    <string name="email">Email</string>
+    <string name="pass_word">Password</string>
+    <string name="login">Login</string>
+    <string name="openMessage">This is the project work for Study Group 9. \nThe actual sentences to be used in this project is\nin latin and also not readable. Also, the design on the \nphysical device is different from the one on the pc...why?.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="signin">Sign In</string>
+    <string name="Register">Register</string>
+</resources>
